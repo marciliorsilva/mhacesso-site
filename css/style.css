@@ -638,6 +638,14 @@ ol {
 	margin-bottom: 20px;
 }
 
+.about__video__text .section-title h2 {
+	color: #111111;
+	font-weight: 800;
+	font-size: 18px;
+	font-style: italic;
+	text-transform: uppercase;
+}
+
 .about__video__text p {
 	margin-bottom: 26px;
 }
@@ -1308,6 +1316,7 @@ ol {
 
 .feature {
 	padding-bottom: 70px;
+	background-color: #e5e5e5;
 }
 
 .feature.feature--about .section-title span {
